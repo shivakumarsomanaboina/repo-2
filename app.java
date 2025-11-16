@@ -11,8 +11,7 @@ java
   java
   my java my java my java my java
 new java new java
-  new java
-  new java
+  
   
 
   
